@@ -1,6 +1,6 @@
-# Nerfies
+# MIMAFace
 
-This is the repository that contains source code for the [Nerfies website](https://mimaface.github.io).
+This is the repository that contains source code for the [MIMAFace website](https://mimaface.github.io).
 
 Website code is cloned from nerfies:
 ```
